@@ -2,13 +2,8 @@
   <div class="container">
     <div class="row">
 
-<h1>Kev crypto </h1>
-<input type="text" 
-class="form-control bg-dark text-light rounded-0 border-0 my-4"
-placeholder="Search Coin"
-@keyup="searchCoin()"
-v-model="textSearch"
-/>
+<h1 class="text-center">Kev crypto </h1>
+
 
   <table class="table table-success table-striped">
     <thead>
