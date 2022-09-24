@@ -1,5 +1,5 @@
 # vue-cripto-api
-
+Enfocada en brindar las estadisticas de algunos Bitcoins.
 ## Project setup
 ```
 npm install
